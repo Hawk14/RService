@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace RApi
 {
-    class Program
+    class Logic
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello");
-        }
     }
 }
